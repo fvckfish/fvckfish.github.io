@@ -1,0 +1,86 @@
+.header {
+	 font-size: 20px;
+	 line-height: 1.5;
+	 margin: 60px auto;
+}
+
+.header span {
+	 display: block;
+}
+
+.header strong {
+	 font-weight: 900;
+}
+
+.section {
+	 padding: 30px 0;
+}
+
+.form {
+	 border: 3px solid #2727d9;
+	 padding: 35px 20px;
+}
+
+.btn-form {
+	 margin: 10px auto;
+	 background-color: #2727d9;
+}
+
+.form input {
+	 margin-bottom: 12px;
+}
+.form-header {
+	 font-size: 20px;
+	 font-weight: 900;
+	 margin-bottom: 20px;
+}
+
+.section-header {
+	 font-size: 24px;
+	 font-weight: 900;
+}
+
+.feature {
+	 margin: 60px auto 0 auto;
+	 
+}
+
+.feature p {
+	 margin-top: 20px;
+}
+
+.feature button {
+	 margin-top: 50px;
+	 margin-bottom: 20px;
+}
+
+.row img {
+	 margin-left: 25px;
+}
+
+.section-header2 {
+	 font-size: 24px;
+	 font-weight: 600;
+	margin: 60px auto;
+}
+
+
+
+
+
+.container {
+	border: 4px solid red;
+}
+
+	 .section {
+			border: 4px solid green;
+	 }
+
+	 .row {
+				border: 3px solid blue;
+	 }
+
+.col-ms-3 {
+	 				border: 2px solid red;
+
+}
