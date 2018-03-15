@@ -6,7 +6,7 @@
 * [Урок 5](fvckfish.github.io/lesson_5) - Знакомство с основами CSS
 * [Урок 6](fvckfish.github.io/lesson_6) - Позиционирование CSS (ч.1 Позиции)
 * [Урок 6.1](https://fvckfish.github.io/lesson_6_1) - Позиционирование CSS (ч.2 Блоки)
-* [Урок 7](fvckfish.github.io/lesson_7) - Верстка первого макета
+* [Урок 7](https://fvckfish.github.io/lesson_7/) - Верстка первого макета
 * [Урок 8](http://github.com)
 * [Урок 9](http://github.com)
 * [Урок 10](http://github.com)
