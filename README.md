@@ -8,7 +8,7 @@
 * [Урок 6.1](https://fvckfish.github.io/lesson_6_1) - Позиционирование CSS (ч.2 Блоки)
 * [Урок 7](https://fvckfish.github.io/lesson_7/) - Верстка первого макета
 * [Урок 8](https://fvckfish.github.io/lesson_8/) - Работа с сеткой Bootstrap
-* [Урок 9](http://github.com)
+* [Урок 9](fvckfish.github.io/lesson_9/) - Верстка при помощи Bootstrap 3
 * [Урок 10](http://github.com)
 * [Урок 11](http://github.com)
 * [Урок 12](https://fvckfish.github.io/lesson_12/) - Работа с репозиторием GitHub
