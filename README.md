@@ -13,7 +13,7 @@
 * [Урок 11](http://github.com)
 * [Урок 12](https://fvckfish.github.io/lesson_12/) - Работа с репозиторием GitHub
 * [Практика 1](fvckfish.github.io/practice_1/) - Подготовка файлов. Верстка шапки сайта
-* [Практика 2](http://github.com)
+* [Практика 2](fvckfish.github.io/practice_2/) - Подключение шрифтов. Верстка первого экрана
 * [Практика 3](http://github.com)
 * [Практика 4](http://github.com)
 * [Практика 5](http://github.com)
