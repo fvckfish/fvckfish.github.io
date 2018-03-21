@@ -16,7 +16,7 @@
 * [Практика 2](fvckfish.github.io/practice_2/) - Подключение шрифтов. Верстка первого экрана
 * [Практика 3](fvckfish.github.io/practice_3/) - Эффекты при наведении и адаптив первого экрана
 * [Практика 4](fvckfish.github.io/practice_4/) - Верстка блока с преимсуществами. Слайдер
-* [Практика 5](http://github.com)
+* [Практика 5](fvckfish.github.io/practice_5/) - Верстка всплывающих окон на сайте
 * [Практика 6](http://github.com)
 * [Практика 7](http://github.com)
 * [Практика 8](http://github.com)
