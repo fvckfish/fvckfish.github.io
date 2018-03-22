@@ -12,6 +12,7 @@
 * [Урок 10](http://github.com)
 * [Урок 11](http://github.com)
 * [Урок 12](https://fvckfish.github.io/lesson_12/) - Работа с репозиторием GitHub
+* [Урок 13](fvckfish.github.io/lesson_13/) - Адаптивная верстка
 * [Практика 1](fvckfish.github.io/practice_1/) - Подготовка файлов. Верстка шапки сайта
 * [Практика 2](fvckfish.github.io/practice_2/) - Подключение шрифтов. Верстка первого экрана
 * [Практика 3](fvckfish.github.io/practice_3/) - Эффекты при наведении и адаптив первого экрана
